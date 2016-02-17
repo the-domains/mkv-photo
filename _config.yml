@@ -1,7 +1,7 @@
 name: mkv-photo
 favicon: null
-layout_spectrum: 0.2939224233850837
-typography_spectrum: 0.781103010987863
+layout_spectrum: 0.16404
+typography_spectrum: 0.31522
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#004E98'
   brandStrength: 0.07495494023896754
   lightness: 0.8005554298870265
-  saturation: 0.5143140088766813
-  rhythmicContrast: 0.2599840727634728
+  saturation: 0.625
+  rhythmicContrast: 0.25
 purpose: []
