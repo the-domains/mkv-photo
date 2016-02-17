@@ -1,0 +1,28 @@
+name: mkv-photo
+favicon: null
+layout_spectrum: 0.2939224233850837
+typography_spectrum: 0.781103010987863
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.07495494023896754
+  lightness: 0.8005554298870265
+  saturation: 0.5143140088766813
+  rhythmicContrast: 0.2599840727634728
+purpose: []
